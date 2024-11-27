@@ -6,7 +6,8 @@ C++ has the crappiest regex engine on the planet. Here is a way to use one of th
 
 ## Download the [newest header only version from CTRE](https://github.com/hanickadot/compile-time-regular-expressions/tree/main/single-header)
 
-### Example wrapper code, all regexes must be defined before compiling, no runtime regexes allowed
+### Example wrapper code, all regexes must be defined before compiling, no runtime regexes allowed 
+#### (kind of self explaning - compile-time-regular-expressions)
 
 ```cpp 
 #ifndef CTREWRAPPER_H
